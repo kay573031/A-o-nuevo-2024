@@ -1,0 +1,92 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('gifas.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.contenedor {
+  text-align: center;
+}
+
+.invitacion {
+  max-width: 600px;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: rgba(164, 164, 167, 0.8);
+  background-image: url("fondo5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+h3{
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 42px;
+  color: #000000;
+}
+
+h2 {
+  font-size: 45px;
+  color: #001885;
+}
+
+p {
+  font-size: 18px;
+  color: #ffc936;
+  line-height: 1.6;
+}
+
+strong {
+  font-size: 20px;
+  color: rgb(161, 162, 163);
+}
+
+.direccion-btn,
+.confirmar-btn {
+  background-color: #8B0000;
+  color: rgb(43, 46, 197);
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+}
+
+.direccion-btn:hover,
+.confirmar-btn:hover {
+  background-color: #2608ca;
+  color: #8B0000;
+}
+
+.mini-foto {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+  background-color: #000000;
+}
+
+p {
+  font-size: 22px;
+  font-family: "Homer Simpson UI";
+}
+h1, h2, h3 {
+  font-family:  cursive;
+  color: #0515f7; /* Dorado */
+  font-style: italic;
+}
+.bc{
+  color: aqua;
+}
