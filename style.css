@@ -84,7 +84,8 @@ p {
 }
 h1, h2, h3 {
   font-family:  cursive;
-  color: #0515f7; /* Dorado */
+  color: #c6c6ca; /* Dorado */
+  font-weight: bolder;
   
 }
 .bc{
